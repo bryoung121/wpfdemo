@@ -633,11 +633,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\briany\\source\\repos\\wpfFileDemo\\wpfFileDemo\\wpfFileDemo.csproj",
+      "projectUniqueName": "C:\\Users\\briany\\source\\repos\\wpfFileDemo\\wpfdemo\\wpfFileDemo.csproj",
       "projectName": "wpfFileDemo",
-      "projectPath": "C:\\Users\\briany\\source\\repos\\wpfFileDemo\\wpfFileDemo\\wpfFileDemo.csproj",
+      "projectPath": "C:\\Users\\briany\\source\\repos\\wpfFileDemo\\wpfdemo\\wpfFileDemo.csproj",
       "packagesPath": "C:\\Users\\briany\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\briany\\source\\repos\\wpfFileDemo\\wpfFileDemo\\obj\\",
+      "outputPath": "C:\\Users\\briany\\source\\repos\\wpfFileDemo\\wpfdemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
